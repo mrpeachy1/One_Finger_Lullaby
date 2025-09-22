@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomaz\\One Finger Lullaby\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomaz\\One Finger Lullaby\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EC7C26-6D2F-0B8A-E4E1-C7A284E6DA1E}|Assembly-CSharp.csproj|c:\\users\\tomaz\\one finger lullaby\\assets\\scripts\\menubuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EC7C26-6D2F-0B8A-E4E1-C7A284E6DA1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menubuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\tomaz\\One Finger Lullaby\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\tomaz\\One Finger Lullaby\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs*",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\Assets\\Scripts\\MenuManager.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:02:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\tomaz\\One Finger Lullaby\\Assets\\Scripts\\MenuBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuBuilder.cs",
+              "ToolTip": "C:\\Users\\tomaz\\One Finger Lullaby\\Assets\\Scripts\\MenuBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuBuilder.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAASwFABAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:51:58.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
